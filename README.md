@@ -1,12 +1,12 @@
-####Tabele ze statystykami rozkładów transportu fotonów dla przeprowadzonych eksperymentów.
-**all_print_stats.csv** - indywidualne cechy rozkładów
+#### Tabele ze statystykami rozkładów transportu fotonów dla przeprowadzonych eksperymentów.
+**all_print_stats.csv** - indywidualne cechy rozkładów/
 **all_compare2benchmark.csv** - porównanie do benchmarku, czyli najlepszej symulacji z serii
 
 
-oznaczenia w **all_print_stats.csv:**
-Name - nazwa
-Sum - suma
-Avg - średnia
+oznaczenia w **all_print_stats.csv:**/
+Name - nazwa/
+Sum - suma/
+Avg - średnia/
 ks_normal - statystyka testu Kolmogorov–Smirnova na normalność rozkładu, odfiltrowane wartości poniżej 1 percentyla i powyżej 99 percentyla
 ks_normal pval - wartość p testu Kolmogorov–Smirnova (wyżej)
 ks_normal log - statystyka testu Kolmogorov–Smirnova na normalność rozkładu, odfiltrowane wartości poniżej 1 percentyla i powyżej 99 percentyla, przekształcenie logarytmem
